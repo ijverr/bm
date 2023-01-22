@@ -41,3 +41,8 @@ For example, if you want to find bookmarks in the "linux" category containing th
 
 
 The script also detects .onion links. When you want to open such a link, it gets copied to clipboard and a notfication is shown. 
+
+## Planned features
+
+I might add detection of i2p links in the future, and maybe a second script for creating bookmarks so you don't have to create text files with links manually. Pull request are very much welcome :)
+
